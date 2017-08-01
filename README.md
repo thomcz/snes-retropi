@@ -37,5 +37,5 @@ start Retro pi setup
 - manage packages -> manage driver packages -> gamecondriver
 - configuration / options -> configure 2 snes controller
 
-Don't upgrade because gamecom diver won't work with newer version!!
+**Don't upgrade because gamecom diver won't work with newer version!!**
 
